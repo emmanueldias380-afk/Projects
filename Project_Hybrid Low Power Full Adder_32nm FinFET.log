@@ -1,0 +1,204 @@
+Circuit: * E:\Thesis Proposal\TG_PASS_FinFET.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:nvd)
+Ignoring empty pin current: Ix(u1:nvs)
+Ignoring empty pin current: Ix(u2:pvd)
+Ignoring empty pin current: Ix(u2:pvs)
+Ignoring empty pin current: Ix(u3:nvd)
+Ignoring empty pin current: Ix(u3:nvs)
+Ignoring empty pin current: Ix(u4:pvd)
+Ignoring empty pin current: Ix(u4:pvs)
+Ignoring empty pin current: Ix(u5:nvd)
+Ignoring empty pin current: Ix(u5:nvs)
+Ignoring empty pin current: Ix(u6:pvd)
+Ignoring empty pin current: Ix(u6:pvs)
+Ignoring empty pin current: Ix(u7:nvd)
+Ignoring empty pin current: Ix(u7:nvs)
+Ignoring empty pin current: Ix(u8:pvd)
+Ignoring empty pin current: Ix(u8:pvs)
+Ignoring empty pin current: Ix(u9:nvd)
+Ignoring empty pin current: Ix(u9:nvs)
+Ignoring empty pin current: Ix(u10:pvd)
+Ignoring empty pin current: Ix(u10:pvs)
+Ignoring empty pin current: Ix(u11:pvd)
+Ignoring empty pin current: Ix(u11:pvs)
+Ignoring empty pin current: Ix(u12:pvd)
+Ignoring empty pin current: Ix(u12:pvs)
+Ignoring empty pin current: Ix(u13:nvd)
+Ignoring empty pin current: Ix(u13:nvs)
+Ignoring empty pin current: Ix(u14:nvd)
+Ignoring empty pin current: Ix(u14:nvs)
+Ignoring empty pin current: Ix(u15:nvd)
+Ignoring empty pin current: Ix(u15:nvs)
+Ignoring empty pin current: Ix(u16:nvd)
+Ignoring empty pin current: Ix(u16:nvs)
+Ignoring empty pin current: Ix(u17:nvd)
+Ignoring empty pin current: Ix(u17:nvs)
+Ignoring empty pin current: Ix(u18:nvd)
+Ignoring empty pin current: Ix(u18:nvs)
+Ignoring empty pin current: Ix(u19:pvd)
+Ignoring empty pin current: Ix(u19:pvs)
+Ignoring empty pin current: Ix(u20:pvd)
+Ignoring empty pin current: Ix(u20:pvs)
+Ignoring empty pin current: Ix(u21:pvd)
+Ignoring empty pin current: Ix(u21:pvs)
+Ignoring empty pin current: Ix(u22:nvd)
+Ignoring empty pin current: Ix(u22:nvs)
+Ignoring empty pin current: Ix(u23:nvd)
+Ignoring empty pin current: Ix(u23:nvs)
+Ignoring empty pin current: Ix(u24:nvd)
+Ignoring empty pin current: Ix(u24:nvs)
+Ignoring empty pin current: Ix(u25:pvd)
+Ignoring empty pin current: Ix(u25:pvs)
+Ignoring empty pin current: Ix(u26:nvd)
+Ignoring empty pin current: Ix(u26:nvs)
+Ignoring empty pin current: Ix(u27:pvd)
+Ignoring empty pin current: Ix(u27:pvs)
+Ignoring empty pin current: Ix(u28:pvd)
+Ignoring empty pin current: Ix(u28:pvs)
+Ignoring empty pin current: Ix(u1:nvd)
+Ignoring empty pin current: Ix(u1:nvs)
+Ignoring empty pin current: Ix(u2:pvd)
+Ignoring empty pin current: Ix(u2:pvs)
+Ignoring empty pin current: Ix(u3:nvd)
+Ignoring empty pin current: Ix(u3:nvs)
+Ignoring empty pin current: Ix(u4:pvd)
+Ignoring empty pin current: Ix(u4:pvs)
+Ignoring empty pin current: Ix(u5:nvd)
+Ignoring empty pin current: Ix(u5:nvs)
+Ignoring empty pin current: Ix(u6:pvd)
+Ignoring empty pin current: Ix(u6:pvs)
+Ignoring empty pin current: Ix(u7:nvd)
+Ignoring empty pin current: Ix(u7:nvs)
+Ignoring empty pin current: Ix(u8:pvd)
+Ignoring empty pin current: Ix(u8:pvs)
+Ignoring empty pin current: Ix(u9:nvd)
+Ignoring empty pin current: Ix(u9:nvs)
+Ignoring empty pin current: Ix(u10:pvd)
+Ignoring empty pin current: Ix(u10:pvs)
+Ignoring empty pin current: Ix(u11:pvd)
+Ignoring empty pin current: Ix(u11:pvs)
+Ignoring empty pin current: Ix(u12:pvd)
+Ignoring empty pin current: Ix(u12:pvs)
+Ignoring empty pin current: Ix(u13:nvd)
+Ignoring empty pin current: Ix(u13:nvs)
+Ignoring empty pin current: Ix(u14:nvd)
+Ignoring empty pin current: Ix(u14:nvs)
+Ignoring empty pin current: Ix(u15:nvd)
+Ignoring empty pin current: Ix(u15:nvs)
+Ignoring empty pin current: Ix(u16:nvd)
+Ignoring empty pin current: Ix(u16:nvs)
+Ignoring empty pin current: Ix(u17:nvd)
+Ignoring empty pin current: Ix(u17:nvs)
+Ignoring empty pin current: Ix(u18:nvd)
+Ignoring empty pin current: Ix(u18:nvs)
+Ignoring empty pin current: Ix(u19:pvd)
+Ignoring empty pin current: Ix(u19:pvs)
+Ignoring empty pin current: Ix(u20:pvd)
+Ignoring empty pin current: Ix(u20:pvs)
+Ignoring empty pin current: Ix(u21:pvd)
+Ignoring empty pin current: Ix(u21:pvs)
+Ignoring empty pin current: Ix(u22:nvd)
+Ignoring empty pin current: Ix(u22:nvs)
+Ignoring empty pin current: Ix(u23:nvd)
+Ignoring empty pin current: Ix(u23:nvs)
+Ignoring empty pin current: Ix(u24:nvd)
+Ignoring empty pin current: Ix(u24:nvs)
+Ignoring empty pin current: Ix(u25:pvd)
+Ignoring empty pin current: Ix(u25:pvs)
+Ignoring empty pin current: Ix(u26:nvd)
+Ignoring empty pin current: Ix(u26:nvs)
+Ignoring empty pin current: Ix(u27:pvd)
+Ignoring empty pin current: Ix(u27:pvs)
+Ignoring empty pin current: Ix(u28:pvd)
+Ignoring empty pin current: Ix(u28:pvs)
+Heightened Def Con from 1.23696e-008 +++++++++++++++++++++++++++++++++++to 1.23796e-008
+Heightened Def Con from 1.24371e-008 +++++++++++++++++++++++++++++++++++to 1.24471e-008
+Heightened Def Con from 1.25045e-008 +++++++++++++++++++++++++++++++++++to 1.25145e-008
+Heightened Def Con from 1.2572e-008 +++++++++++++++++++++++++++++++++++to 1.2582e-008
+Heightened Def Con from 1.26394e-008 +++++++++++++++++++++++++++++++++++to 1.26494e-008
+Heightened Def Con from 1.27069e-008 +++++++++++++++++++++++++++++++++++to 1.27169e-008
+Heightened Def Con from 1.27743e-008 +++++++++++++++++++++++++++++++++++to 1.27843e-008
+Heightened Def Con from 1.28418e-008 +++++++++++++++++++++++++++++++++++to 1.28518e-008
+Heightened Def Con from 1.29092e-008 +++++++++++++++++++++++++++++++++++to 1.29192e-008
+Heightened Def Con from 1.29767e-008 +++++++++++++++++++++++++++++++++++to 1.29867e-008
+Heightened Def Con from 1.30441e-008 +++++++++++++++++++++++++++++++++++to 1.30541e-008
+Heightened Def Con from 1.31116e-008 +++++++++++++++++++++++++++++++++++to 1.31216e-008
+Heightened Def Con from 1.3179e-008 +++++++++++++++++++++++++++++++++++to 1.3189e-008
+Heightened Def Con from 1.32465e-008 +++++++++++++++++++++++++++++++++++to 1.32565e-008
+Heightened Def Con from 1.3314e-008 +++++++++++++++++++++++++++++++++++to 1.3324e-008
+Heightened Def Con from 1.33814e-008 +++++++++++++++++++++++++++++++++++to 1.33914e-008
+Heightened Def Con from 1.34489e-008 +++++++++++++++++++++++++++++++++++to 1.34589e-008
+Heightened Def Con from 1.35163e-008 +++++++++++++++++++++++++++++++++++to 1.35263e-008
+Heightened Def Con from 1.35838e-008 +++++++++++++++++++++++++++++++++++to 1.35938e-008
+Heightened Def Con from 1.36512e-008 +++++++++++++++++++++++++++++++++++to 1.36612e-008
+Heightened Def Con from 1.37187e-008 +++++++++++++++++++++++++++++++++++to 1.37287e-008
+Heightened Def Con from 1.37861e-008 +++++++++++++++++++++++++++++++++++to 1.37961e-008
+Heightened Def Con from 1.38536e-008 +++++++++++++++++++++++++++++++++++to 1.38636e-008
+Heightened Def Con from 1.3921e-008 +++++++++++++++++++++++++++++++++++to 1.3931e-008
+Heightened Def Con from 1.39885e-008 +++++++++++++++++++++++++++++++++++to 1.39985e-008
+Heightened Def Con from 1.40559e-008 +++++++++++++++++++++++++++++++++++to 1.40659e-008
+Heightened Def Con from 1.41153e-008 +++++++++++++++++++++++++++++++++++to 1.41253e-008
+Heightened Def Con from 2.83696e-008 +++++++++++++++++++++++++++++++++++to 2.83796e-008
+Heightened Def Con from 2.84371e-008 +++++++++++++++++++++++++++++++++++to 2.84471e-008
+Heightened Def Con from 2.85045e-008 +++++++++++++++++++++++++++++++++++to 2.85145e-008
+Heightened Def Con from 2.8572e-008 +++++++++++++++++++++++++++++++++++to 2.8582e-008
+Heightened Def Con from 2.86394e-008 +++++++++++++++++++++++++++++++++++to 2.86494e-008
+Heightened Def Con from 2.87069e-008 +++++++++++++++++++++++++++++++++++to 2.87169e-008
+Heightened Def Con from 2.87743e-008 +++++++++++++++++++++++++++++++++++to 2.87843e-008
+Heightened Def Con from 2.88418e-008 +++++++++++++++++++++++++++++++++++to 2.88518e-008
+Heightened Def Con from 2.89092e-008 +++++++++++++++++++++++++++++++++++to 2.89192e-008
+Heightened Def Con from 2.89767e-008 +++++++++++++++++++++++++++++++++++to 2.89867e-008
+Heightened Def Con from 2.90441e-008 +++++++++++++++++++++++++++++++++++to 2.90541e-008
+Heightened Def Con from 2.91116e-008 +++++++++++++++++++++++++++++++++++to 2.91216e-008
+Heightened Def Con from 2.9179e-008 +++++++++++++++++++++++++++++++++++to 2.9189e-008
+Heightened Def Con from 2.92465e-008 +++++++++++++++++++++++++++++++++++to 2.92565e-008
+Heightened Def Con from 2.9314e-008 +++++++++++++++++++++++++++++++++++to 2.9324e-008
+Heightened Def Con from 2.93814e-008 +++++++++++++++++++++++++++++++++++to 2.93914e-008
+Heightened Def Con from 2.94489e-008 +++++++++++++++++++++++++++++++++++to 2.94589e-008
+Heightened Def Con from 2.95163e-008 +++++++++++++++++++++++++++++++++++to 2.95263e-008
+Heightened Def Con from 2.95838e-008 +++++++++++++++++++++++++++++++++++to 2.95938e-008
+Heightened Def Con from 2.96512e-008 +++++++++++++++++++++++++++++++++++to 2.96612e-008
+Heightened Def Con from 2.97187e-008 +++++++++++++++++++++++++++++++++++to 2.97287e-008
+Heightened Def Con from 2.97861e-008 +++++++++++++++++++++++++++++++++++to 2.97961e-008
+Heightened Def Con from 2.98536e-008 +++++++++++++++++++++++++++++++++++to 2.98636e-008
+Heightened Def Con from 2.9921e-008 +++++++++++++++++++++++++++++++++++to 2.9931e-008
+Heightened Def Con from 2.99885e-008 +++++++++++++++++++++++++++++++++++to 2.99985e-008
+Heightened Def Con from 3.00559e-008 +++++++++++++++++++++++++++++++++++to 3.00659e-008
+Heightened Def Con from 3.01153e-008 +++++++++++++++++++++++++++++++++++to 3.01253e-008
+
+sum_tphl=1.82644e-011 FROM 2.15e-009 TO 2.16826e-009
+sum_tplh=4.56172e-011 FROM 6.15e-009 TO 6.19562e-009
+sum_tr=2.30984e-011 FROM 6.18529e-009 TO 6.20838e-009
+sum_tf=2.44995e-011 FROM 2.15618e-009 TO 2.18068e-009
+cout_tphl=2.67658e-011 FROM 6.15e-009 TO 6.17677e-009
+cout_tplh=4.33856e-011 FROM 8.05e-009 TO 8.09339e-009
+cout_tr=4.07695e-011 FROM 8.07618e-009 TO 8.11695e-009
+cout_tf=2.07212e-011 FROM 6.16525e-009 TO 6.18597e-009
+sum_tpd: (sum_tphl+sum_tplh)/2=3.19408e-011
+cout_tpd: (cout_tphl+cout_tplh)/2=3.50757e-011
+prop_delay: max(sum_tpd,cout_tpd)=3.50757e-011
+rise_time: max(sum_tr,cout_tr)=4.07695e-011
+fall_time: max(sum_tf,cout_tf)=2.44995e-011
+avg_power: AVG(-v(vdd)*i(v1))=3.68868e-005 FROM 1.6e-008 TO 3.2e-008
+
+
+Date: Sun Sep 27 10:45:09 2026
+Total elapsed time: 74.365 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 260993
+traniter = 260983
+tranpoints = 27507
+accept = 7281
+rejected = 22170
+matrix size = 214
+fillins = 110
+solver = Normal
+Thread vector: 512.9/251.3[5] 17.7/18.6[1] 68.9/28.2[5] 2.0/5.0[1]  2592/500
+Matrix Compiler1: 24.04 KB object code size  15.4/5.9/[4.5]
+Matrix Compiler2: 25.66 KB object code size  6.5/6.7/[4.2]
+
